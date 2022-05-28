@@ -1,0 +1,26 @@
+{
+	"FileVersion" : 3,
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"FriendlyName" : "CSWUtilities",
+	"Description" : "Free utilities for UE4",
+	"Category" : "Cronofear Softworks",
+	"CreatedBy" : "Cronofear Softworks",
+	"CreatedByURL" : "http://cronofear.com/",
+	"DocsURL" : "",
+	"MarketplaceURL" : "",
+	"SupportURL" : "",
+	"EngineVersion" : "4.16.0",
+	"CanContainContent" : true,
+	"IsBetaVersion" : false,
+	"Installed" : true,
+	"RequiresBuildPlatform" : false,
+	"Modules" :
+	[
+		{
+			"Name" : "CSWUtilities",
+			"Type" : "Developer",
+			"LoadingPhase" : "Default"
+		}
+	]
+}
